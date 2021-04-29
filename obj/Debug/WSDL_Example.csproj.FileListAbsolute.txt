@@ -1,0 +1,10 @@
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\obj\Debug\WSDL_Example.csprojAssemblyReference.cache
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\obj\Debug\WSDL_Example.csproj.CoreCompileInputs.cache
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\bin\Debug\WSDL_Example.exe.config
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\bin\Debug\WSDL_Example.exe
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\bin\Debug\WSDL_Example.pdb
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\obj\Debug\WSDL_Example.csproj.CopyComplete
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\obj\Debug\WSDL_Example.exe
+C:\Users\manul\OneDrive\_Coding\_Projects\c_sharp\WSDL_Example\obj\Debug\WSDL_Example.pdb
